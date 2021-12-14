@@ -1,2 +1,2 @@
 # SSW-810-Project-Stock-Prediction
-This contains SSW-810 Project. This is code for Stock Prediction Analysis written in Python. <br />Contributers: Shivank Srivastava (20006832) <br />Siddhantkumar Maske(20006862)
+This contains SSW-810 Project. This is code for Stock Prediction Analysis written in Python. <br />Contributers: Shivank Srivastava (20006832) <br />Siddhantkumar Maske(20006862) <br /> To run this program, steps are:  <br /> 1. Download following files: Project_Final.py and keras_model.h5 in the same directory. <br /> 2.Run the file Project_Final.py <br/> 3. In terminal type the following code: streamlit run Project_Final.py   
